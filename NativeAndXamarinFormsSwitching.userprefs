@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Droid/NativeAndXamarinFormsSwitching.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/NativeActivity.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="4" Column="4" />
+      <File FileName="NativeAndXamarinFormsSwitching/NativeAndXamarinFormsSwitching.cs" Line="7" Column="7" />
+      <File FileName="Droid/NativeActivity.cs" Line="36" Column="36" />
+      <File FileName="Droid/CustomButtonRenderer.cs" Line="4" Column="4" />
+      <File FileName="Droid/Resources/layout/NativeActivityLayout.axml" Line="45" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NativeAndXamarinFormsSwitching.Droid MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
